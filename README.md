@@ -69,7 +69,7 @@ Performance-focused DAX measures
 
 📊 Dashboard Preview
 
-(Add screenshots here for better presentation)
+https://github.com/sahil8906/Air-Quality-Health-Population-Impact-Dashboard-India/blob/main/AQI%20Dashboard.png
 
 Example:
 
